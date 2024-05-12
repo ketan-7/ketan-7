@@ -1,5 +1,5 @@
-# Hi there, I'm Shrumi Dedhia 👋
-### 📊🔍CS Grad Student | Passionate about Data | Exploring ML | Data Analysis Enthusiast  
+# Hi there, I'm Ketan Dhamdhere 👋
+### 📊🔍CS Undergrad Student | Front-end Developer | Passionate about Data | Exploring ML | Data Analysis Enthusiast  
 
 🌐 Passionate about data-driven solutions and innovations. With a Master's in Computer Science from George Washington University and hands-on experience in data analytics and science, I bring a strong foundation in SQL, Tableau, Power BI, Python, and advanced analytics.
 
@@ -7,13 +7,13 @@
 
 🚀 Explore my GitHub for projects and contributions that showcase my journey through the world of data.
 
-📫 How to reach me **shrumidedhia@gwmail.gwu.edu**
+📫 How to reach me **ketandhamdhere123@gmail.com**
 
 ⚡ Fun fact: I've played enough "Clue" that I enjoy solving data mysteries, chasing missing values, and outliers! 🕵️‍♂️📊🔍
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shrumidedhia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssaxe015@ucr.edu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ketan-dhamdhere-b97a74205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssaxe015@ucr.edu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
