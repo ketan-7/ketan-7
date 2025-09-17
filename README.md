@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/ketan-7/count.svg" />
 </p>
 
-### 📊🔍 CS Undergrad Student | Front-end Developer  
+### 📊🔍 CS Grad Student | Full Stack Developer  
 
 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.
 
@@ -15,11 +15,11 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 🚀 Explore my GitHub for projects and contributions that showcase my journey.
 
-📫 How to reach me **ketandhamdhere123@gmail.com**
+📫 How to reach me **ketandhamdhere05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ketan-dhamdhere-b97a74205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssaxe015@ucr.edu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ketan-dhamdhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssaxe015@ucr.edu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
