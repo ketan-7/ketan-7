@@ -25,8 +25,8 @@ I'm a **Software Engineer and Computer Science graduate** with professional expe
 
 I recently completed my **M.S. in Computer Science at The George Washington University**, where I focused on software engineering, algorithms, object-oriented design, databases, and computer systems.
 
-- 🎓 **M.S. Computer Science — George Washington University**, May 2026
-- 🎓 **B.E. Computer Science — Savitribai Phule Pune University**, May 2023
+- 🎓 **M.S. Computer Science - George Washington University**, May 2026
+- 🎓 **B.E. Computer Science - Savitribai Phule Pune University**, May 2023
 - 💼 **2+ years of software engineering experience**
 - 🧑‍💻 Experienced with **React.js, Next.js, Node.js, Java, Spring Boot, Python, TypeScript, and JavaScript**
 - 🗄️ Comfortable working with **PostgreSQL, MySQL, MongoDB, Redis, and Firebase**
@@ -36,7 +36,7 @@ I recently completed my **M.S. in Computer Science at The George Washington Univ
 - 📍 Washington, D.C. / Arlington, Virginia
 - 🚀 Open to **Software Engineer, Full-Stack Engineer, Backend Engineer, and Frontend Engineer** opportunities
 
-My LinkedIn profile also highlights my software engineering background, GWU education, technical projects, and certifications. citeturn1search0
+My LinkedIn profile also highlights my software engineering background, GWU education, technical projects, and certifications.
 
 ---
 
@@ -246,31 +246,38 @@ My LinkedIn profile also highlights my software engineering background, GWU educ
 Relevant coursework:
 - Design & Analysis of Algorithms
 - Object-Oriented Design
+- Software Engineering
 - Advanced Software Paradigms
 - Computer System Architecture
 - Database Management Systems
+- Cloud Computing
+- Machine Learning
+- Trust Worthy AI
+- Academic Writing & Rsch/IntlGradStuII
 
 ### Savitribai Phule Pune University
 **Bachelor of Engineering in Computer Science** · May 2023  
 **GPA: 3.63**
 
 Relevant coursework:
-- Operating Systems
+- Web Technologies
 - Computer Networks
 - Software Engineering
 - Machine Learning
 - Theory of Computation
+- Artificial Intelligence
+- Operating Systems
 
 ---
 
 ## 🏆 Certifications & Learning
 
-- Red Hat OpenShift Administration I — Operating a Production Cluster
+- Red Hat OpenShift Administration I - Operating a Production Cluster
 - Red Hat System Administration I
 - Red Hat System Administration II
-- AWS Academy Graduate — AWS Academy Cloud Foundations
+- AWS Academy Graduate - AWS Academy Cloud Foundations
 
-These certifications and the AWS Academy credential are also listed on my LinkedIn profile. citeturn1search0
+These certifications and the AWS Academy credential are also listed on my LinkedIn profile.
 
 ---
 
