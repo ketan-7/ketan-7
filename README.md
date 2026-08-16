@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ketan Dhamdhere 👋</h1>
 
-<p align="center">
+<p align="center">.
   <b>Software Engineer · Full-Stack Development · Backend Engineering · AI/ML</b><br/>
   M.S. Computer Science @ George Washington University · Washington, D.C. · Open to Full-Time Roles
 </p>
